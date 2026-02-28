@@ -5,7 +5,7 @@ This project is an AI-powered resume screening automation built using n8n and Go
 
 ## 🏗 Workflow Screenshot
 
-![Workflow Screenshot](assets/workflow.png)
+![Workflow Screenshot](https://raw.githubusercontent.com/username/repo/main/assets/workflow.png)
 
 ## 🔥 Features
 - 📥 Gmail-triggered resume intake
