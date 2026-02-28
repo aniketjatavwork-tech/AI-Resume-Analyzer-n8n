@@ -3,6 +3,10 @@
 ## 📌 Overview
 This project is an AI-powered resume screening automation built using n8n and Google Gemini API. It automatically evaluates resumes against a job description and generates a structured screening report.
 
+## 🏗 Workflow Screenshot
+
+![Workflow Screenshot](workflow.png)
+
 ## 🔥 Features
 - 📥 Gmail-triggered resume intake
 - 📄 Automatic PDF text extraction
